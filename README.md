@@ -1,5 +1,7 @@
 # jasani-cljs-node
 
+[![Clojars Project](https://img.shields.io/clojars/v/jasani-cljs-node/lein-template.svg)](https://clojars.org/jasani-cljs-node/lein-template)
+
 A Leiningen template for generating a simple clojurescript project
 that can run on [nodejs](https://nodejs.org/).
 
