@@ -12,4 +12,7 @@
                 :output-dir    "target/{{name}}"
                 :main          "{{name}}.core"
                 :target        :nodejs
+                ;; Manage nodejs dependencies here
+                :npm-deps      {"string-template" "1.0.0"}
+                :install-deps  true
                 :optimizations :none}}]})
