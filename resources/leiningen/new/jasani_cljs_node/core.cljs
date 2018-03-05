@@ -1,5 +1,5 @@
 (ns {{name}}.core
-    (:require [clojure.core.async :as async]))
+  (:require [clojure.core.async :as async]))
 
 (defn -main
   [& args]
