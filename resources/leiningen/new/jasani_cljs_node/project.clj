@@ -18,6 +18,16 @@
                 :npm-deps      {"string-template" "1.0.0"}
                 :install-deps  true
                 :optimizations :none}}
+    {:id "simple"
+     :source-paths ["src"]
+     :compiler {:output-to     "target/simple/{{name}}.js"
+                :output-dir    "target/simple"
+                :main          "{{name}}.core"
+                :target        :nodejs
+                ;; Manage nodejs dependencies here
+                :npm-deps      {"string-template" "1.0.0"}
+                :install-deps  true
+                :optimizations :simple}}
     ]}
   :profiles {:dev {:dependencies [[com.cemerick/piggieback "0.2.2"]
                                   [org.clojure/tools.nrepl "0.2.10"]]
