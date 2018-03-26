@@ -2,6 +2,9 @@
 All notable changes to this project will be documented in this file. This change log follows the conventions of [keepachangelog.com](http://keepachangelog.com/).
 
 ## [Unreleased]
+### Changed
+
+## [0.1.3]
 - Add example using builtin `fs` module from NodeJS
 - Add support for nREPL and CIDER
 - Add cljsbuild simple optimization
@@ -19,6 +22,7 @@ All notable changes to this project will be documented in this file. This change
 ### Added
 - Initial creation
 
-[Unreleased]: https://github.com/hiteshjasani/jasani-cljs-node-template/compare/v0.1.2...HEAD
+[Unreleased]: https://github.com/hiteshjasani/jasani-cljs-node-template/compare/v0.1.3...HEAD
+[0.1.3]: https://github.com/hiteshjasani/jasani-cljs-node-template/compare/v0.1.2...v0.1.3
 [0.1.2]: https://github.com/hiteshjasani/jasani-cljs-node-template/compare/v0.1.1...v0.1.2
 [0.1.1]: https://github.com/hiteshjasani/jasani-cljs-node-template/compare/v0.1.0...v0.1.1
