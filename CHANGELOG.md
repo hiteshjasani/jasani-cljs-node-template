@@ -3,6 +3,8 @@ All notable changes to this project will be documented in this file. This change
 
 ## [Unreleased]
 - Add example using builtin `fs` module from NodeJS
+- Add support for nREPL and CIDER
+- Add cljsbuild simple optimization
 
 ## [0.1.2]
 ### Changed
