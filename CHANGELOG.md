@@ -2,7 +2,7 @@
 All notable changes to this project will be documented in this file. This change log follows the conventions of [keepachangelog.com](http://keepachangelog.com/).
 
 ## [Unreleased]
-### Changed
+- Add example using builtin `fs` module from NodeJS
 
 ## [0.1.2]
 ### Changed
