@@ -4,6 +4,7 @@ All notable changes to this project will be documented in this file. This change
 ## [Unreleased]
 ### Changed
 - Upgrade to Clojurescript 1.10.238
+- Changelog fixes
 
 ## [0.1.1] - 2018-03-05
 ### Changed
@@ -13,5 +14,5 @@ All notable changes to this project will be documented in this file. This change
 ### Added
 - Initial creation
 
-[Unreleased]: https://github.com/your-name/jasani-cljs-node/compare/0.1.1...HEAD
-[0.1.1]: https://github.com/your-name/jasani-cljs-node/compare/0.1.0...0.1.1
+[Unreleased]: https://github.com/hiteshjasani/jasani-cljs-node-template/compare/v0.1.1...HEAD
+[0.1.1]: https://github.com/hiteshjasani/jasani-cljs-node-template/compare/v0.1.0...v0.1.1
