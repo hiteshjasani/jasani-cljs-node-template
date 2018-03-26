@@ -1,4 +1,4 @@
-(defproject jasani-cljs-node/lein-template "0.1.2"
+(defproject jasani-cljs-node/lein-template "0.1.3-SNAPSHOT"
   :description "A leiningen template to generate a simple cljs on nodejs app."
   :url "https://github.com/hiteshjasani/jasani-cljs-node-template"
   :license {:name "Eclipse Public License"
